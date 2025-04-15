@@ -1,3 +1,4 @@
 ﻿  main.cpp
-C:\game_programming2\game_programming3\Project2\main.cpp(21,1): warning C4172: 지역 변수 또는 임시 : num의 주소를 반환하는 중
-  Project2.vcxproj -> C:\game_programming2\game_programming3\x64\Debug\Project2.exe
+C:\game_programming2\game_programming3\Project2\main.cpp(11,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\game_programming2\game_programming3\Project2\main.cpp(10,7): error C2182: 'GoToXY': 이 'void' 사용은 유효하지 않습니다.
+C:\game_programming2\game_programming3\Project2\main.cpp(56,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
