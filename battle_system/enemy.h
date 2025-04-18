@@ -2,6 +2,21 @@
 #include "common.h"
 #include "image.h"
 
+enum TurnSystem
+{
+	PLAYERTURN,
+	ENEMYTURN,
+	GAMECLEAR,
+	GAMEEND
+};
+
+enum BattleState
+{
+	IDLE,
+	MOVE,
+	BATTLE
+};
+
 struct Enemy
 {
 	int HP;
@@ -9,9 +24,10 @@ struct Enemy
 	int DEF;
 	string name;
 	char Image[IMAGEHEIGHT][IMAGEWIDTH + 1];
+	BattleState battleState;
 
 	Enemy(int HP, int STR, int DEF, string name, char Image[IMAGEHEIGHT][IMAGEWIDTH + 1])
-		: HP(HP), STR(STR), DEF(DEF), name(name)
+		: HP(HP), STR(STR), DEF(DEF), name(name), battleState(battleState)
 	{
 		for (int y = 0; y < IMAGEHEIGHT; y++)
 		{

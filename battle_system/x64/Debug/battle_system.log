@@ -1,4 +1,31 @@
-﻿  enemy.cpp
+﻿  common.cpp
+C:\game_programming2\game_programming3\battle_system\common.cpp(5,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\game_programming2\game_programming3\battle_system\common.cpp(5,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  enemy.cpp
+C:\game_programming2\game_programming3\battle_system\enemy.h(5,6): error C2011: 'TurnSystem': 'enum' 형식 재정의
+  (소스 파일 'enemy.cpp'을(를) 컴파일하는 중)
+      C:\game_programming2\game_programming3\battle_system\common.h(10,6):
+      'TurnSystem' 선언을 참조하십시오.
+  
+C:\game_programming2\game_programming3\battle_system\enemy.h(13,6): error C2011: 'BattleState': 'enum' 형식 재정의
+  (소스 파일 'enemy.cpp'을(를) 컴파일하는 중)
+      C:\game_programming2\game_programming3\battle_system\common.h(18,6):
+      'BattleState' 선언을 참조하십시오.
+  
+  image.cpp
   main.cpp
+C:\game_programming2\game_programming3\battle_system\enemy.h(5,6): error C2011: 'TurnSystem': 'enum' 형식 재정의
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+      C:\game_programming2\game_programming3\battle_system\common.h(10,6):
+      'TurnSystem' 선언을 참조하십시오.
+  
+C:\game_programming2\game_programming3\battle_system\enemy.h(13,6): error C2011: 'BattleState': 'enum' 형식 재정의
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+      C:\game_programming2\game_programming3\battle_system\common.h(18,6):
+      'BattleState' 선언을 참조하십시오.
+  
+C:\game_programming2\game_programming3\battle_system\main.cpp(7,13): error C2661: 'Enemy::Enemy': 오버로드된 함수에서 6개의 인수를 사용하지 않습니다.
+      C:\game_programming2\game_programming3\battle_system\main.cpp(7,13):
+      인수 목록 '(int, int, int, const char [6], char [10][11], BattleState)'을(를) 일치시키는 동안
+  
   코드를 생성하고 있습니다...
-  battle_system.vcxproj -> C:\game_programming2\game_programming3\x64\Debug\battle_system.exe

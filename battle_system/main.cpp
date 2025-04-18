@@ -3,7 +3,10 @@
 
 int main()
 {
-	Enemy Slime(100, 10, 1, "SLIME", SlimeMove);
+
+	Enemy Slime(100, 10, 1, "SLIME", SlimeMove, IDLE);
+
+
 
 	int slimeX = 30;
 	int slimeY = 5;
