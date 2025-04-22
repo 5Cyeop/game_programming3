@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\game_programming2\\game_programming3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0BFD14C-6507-4DDA-8FC0-B95F86C78901}|Project5\\Project5.vcxproj|C:\\game_programming2\\game_programming3\\Project5\\oop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D0BFD14C-6507-4DDA-8FC0-B95F86C78901}|Project5\\Project5.vcxproj|solutionrelative:Project5\\oop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|C:\\game_programming2\\game_programming3\\Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|solutionrelative:Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BFD14C-6507-4DDA-8FC0-B95F86C78901}|Project5\\Project5.vcxproj|C:\\game_programming2\\game_programming3\\Project5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D0BFD14C-6507-4DDA-8FC0-B95F86C78901}|Project5\\Project5.vcxproj|solutionrelative:Project5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|C:\\game_programming2\\game_programming3\\Project6\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|solutionrelative:Project6\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0BFD14C-6507-4DDA-8FC0-B95F86C78901}|Project5\\Project5.vcxproj|C:\\game_programming2\\game_programming3\\Project5\\oop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D0BFD14C-6507-4DDA-8FC0-B95F86C78901}|Project5\\Project5.vcxproj|solutionrelative:Project5\\oop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|C:\\game_programming2\\game_programming3\\Project6\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|solutionrelative:Project6\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|C:\\game_programming2\\game_programming3\\Project6\\skill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|solutionrelative:Project6\\skill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|C:\\game_programming2\\game_programming3\\Project6\\skill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{343853E2-7152-4FE6-AC6C-EEB1330D7F40}|Project6\\Project6.vcxproj|solutionrelative:Project6\\skill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "oop.cpp",
-              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project5\\oop.cpp",
-              "RelativeDocumentMoniker": "Project5\\oop.cpp",
-              "ToolTip": "C:\\game_programming2\\game_programming3\\Project5\\oop.cpp*",
-              "RelativeToolTip": "Project5\\oop.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project6\\Character.cpp",
+              "RelativeDocumentMoniker": "Project6\\Character.cpp",
+              "ToolTip": "C:\\game_programming2\\game_programming3\\Project6\\Character.cpp*",
+              "RelativeToolTip": "Project6\\Character.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T07:12:55.605Z",
+              "WhenOpened": "2025-04-22T07:34:27.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "oop.h",
-              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project5\\oop.h",
-              "RelativeDocumentMoniker": "Project5\\oop.h",
-              "ToolTip": "C:\\game_programming2\\game_programming3\\Project5\\oop.h",
-              "RelativeToolTip": "Project5\\oop.h",
-              "ViewState": "AgIAAAoAAAAAAAAAAADgvxkAAAAAAAAAAAAAAA==",
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project6\\Character.h",
+              "RelativeDocumentMoniker": "Project6\\Character.h",
+              "ToolTip": "C:\\game_programming2\\game_programming3\\Project6\\Character.h*",
+              "RelativeToolTip": "Project6\\Character.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T07:11:16.699Z",
+              "WhenOpened": "2025-04-22T07:31:20.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project5\\main.cpp",
-              "RelativeDocumentMoniker": "Project5\\main.cpp",
-              "ToolTip": "C:\\game_programming2\\game_programming3\\Project5\\main.cpp",
-              "RelativeToolTip": "Project5\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "skill.cpp",
+              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project6\\skill.cpp",
+              "RelativeDocumentMoniker": "Project6\\skill.cpp",
+              "ToolTip": "C:\\game_programming2\\game_programming3\\Project6\\skill.cpp*",
+              "RelativeToolTip": "Project6\\skill.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T07:03:44.735Z",
+              "WhenOpened": "2025-04-22T07:18:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project6\\main.cpp",
+              "RelativeDocumentMoniker": "Project6\\main.cpp",
+              "ToolTip": "C:\\game_programming2\\game_programming3\\Project6\\main.cpp*",
+              "RelativeToolTip": "Project6\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T07:06:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "skill.h",
+              "DocumentMoniker": "C:\\game_programming2\\game_programming3\\Project6\\skill.h",
+              "RelativeDocumentMoniker": "Project6\\skill.h",
+              "ToolTip": "C:\\game_programming2\\game_programming3\\Project6\\skill.h*",
+              "RelativeToolTip": "Project6\\skill.h*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T07:06:41.443Z",
               "EditorCaption": ""
             }
           ]
